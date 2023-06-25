@@ -1,0 +1,6 @@
+discord:
+  - id: "XXXX#XX"
+    discord_channel: "XXXXX"
+    discord_username: "XXXX"
+    discord_format: "{{data}}"
+    discord_webhook_url: "https://discord.com/api/webhooks/XXXXXXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
