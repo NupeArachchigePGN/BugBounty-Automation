@@ -2,7 +2,7 @@
 ##### Note: Don't use this to Run on Github Actions since Gituhb will Ban your account due to heavy traffic load
 
 #### 1. Clone this to your VPS
-        git clone https://github.com/supunhalangodaa/BugBounty-Automation/
+        git clone https://github.com/NupeArachchigePGN/BugBounty-Automation/
 #### 2. Install Below Tools
         go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
         go get -v github.com/projectdiscovery/dnsx/cmd/dnsx
