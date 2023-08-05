@@ -1,6 +1,6 @@
 discord:
-  - id: "XXXX#XX"
-    discord_channel: "XXXXX"
-    discord_username: "XXXX"
+  - id: "domains"
+    discord_channel: "Bug bounty"
+    discord_username: "test"
     discord_format: "{{data}}"
-    discord_webhook_url: "https://discord.com/api/webhooks/XXXXXXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    discord_webhook_url: "https://discordapp.com/api/webhooks/1137378317599768717/DJ67zTr5JhIOsNbNbrAOoJZniSompPlcfs62nZ89mrMFP_voBBETbT0ZuenZ_O2Inr6g"
